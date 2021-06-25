@@ -8,9 +8,9 @@
   * You can't exit from the quiz while you are playing.
 
 # Links
-Repository Link: 
+Repository Link: https://github.com/Mahmoudcali02/code-quiz
 
-Deployed Link: 
+Deployed Link: https://mahmoudcali02.github.io/code-quiz/#index.html
 
 # Screenshots
 ## Start page 
